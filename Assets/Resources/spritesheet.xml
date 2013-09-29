@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:534fb6f349caa9e0cc9269e1c5a07be1$ -->
+<TextureAtlas imagePath="spritesheet.png">
+  <SubTexture name="pacman_left_00" x="3" y="3" width="20" height="20" />
+  <SubTexture name="pacman_left_01" x="23" y="3" width="20" height="20" />
+  <SubTexture name="pacman_right_00" x="3" y="23" width="20" height="20" />
+  <SubTexture name="pacman_right_01" x="23" y="23" width="20" height="20" />
+  <SubTexture name="pacman_up_00" x="3" y="43" width="20" height="20" />
+  <SubTexture name="pacman_up_01" x="23" y="43" width="20" height="20" />
+  <SubTexture name="pacman_down_00" x="3" y="63" width="20" height="20" />
+  <SubTexture name="pacman_down_01" x="23" y="63" width="20" height="20" />
+  <SubTexture name="redghost_up_00" x="3" y="83" width="20" height="20" />
+  <SubTexture name="redghost_up_01" x="23" y="83" width="20" height="20" />
+  <SubTexture name="redghost_down_00" x="43" y="83" width="20" height="20" />
+  <SubTexture name="redghost_down_01" x="63" y="83" width="20" height="20" />
+  <SubTexture name="redghost_left_00" x="83" y="83" width="20" height="20" />
+  <SubTexture name="redghost_left_01" x="103" y="83" width="20" height="20" />
+  <SubTexture name="redghost_right_00" x="123" y="83" width="20" height="20" />
+  <SubTexture name="redghost_right_01" x="143" y="83" width="20" height="20" />
+  <SubTexture name="pinkghost_up_00" x="3" y="103" width="20" height="20" />
+  <SubTexture name="pinkghost_up_01" x="23" y="103" width="20" height="20" />
+  <SubTexture name="pinkghost_down_00" x="43" y="103" width="20" height="20" />
+  <SubTexture name="pinkghost_down_01" x="63" y="103" width="20" height="20" />
+  <SubTexture name="pinkghost_left_00" x="83" y="103" width="20" height="20" />
+  <SubTexture name="pinkghost_left_01" x="103" y="103" width="20" height="20" />
+  <SubTexture name="pinkghost_right_00" x="123" y="103" width="20" height="20" />
+  <SubTexture name="pinkghost_right_01" x="143" y="103" width="20" height="20" />
+  <SubTexture name="blueghost_up_00" x="3" y="123" width="20" height="20" />
+  <SubTexture name="blueghost_up_01" x="23" y="123" width="20" height="20" />
+  <SubTexture name="blueghost_down_00" x="43" y="123" width="20" height="20" />
+  <SubTexture name="blueghost_down_01" x="63" y="123" width="20" height="20" />
+  <SubTexture name="blueghost_left_00" x="83" y="123" width="20" height="20" />
+  <SubTexture name="blueghost_left_01" x="103" y="123" width="20" height="20" />
+  <SubTexture name="blueghost_right_00" x="123" y="123" width="20" height="20" />
+  <SubTexture name="blueghost_right_01" x="143" y="123" width="20" height="20" />
+  <SubTexture name="yellowghost_up_00" x="3" y="143" width="20" height="20" />
+  <SubTexture name="yellowghost_up_01" x="23" y="143" width="20" height="20" />
+  <SubTexture name="yellowghost_down_00" x="43" y="143" width="20" height="20" />
+  <SubTexture name="yellowghost_down_01" x="63" y="143" width="20" height="20" />
+  <SubTexture name="yellowghost_left_00" x="83" y="143" width="20" height="20" />
+  <SubTexture name="yellowghost_left_01" x="103" y="143" width="20" height="20" />
+  <SubTexture name="yellowghost_right_00" x="123" y="143" width="20" height="20" />
+  <SubTexture name="yellowghost_right_01" x="143" y="143" width="20" height="20" />
+  <SubTexture name="dot" x="6" y="186" width="8" height="8" />
+</TextureAtlas>
